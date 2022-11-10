@@ -19,6 +19,7 @@ ___
 ___
 
 * npm start
+* remove header section inside app.js
 ___
 
 * The homepage top position has a Navbar. 
