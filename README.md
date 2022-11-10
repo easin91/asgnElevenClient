@@ -6,7 +6,6 @@ ___
 * npx create-react-app appName
 * npm install react-router-dom
 * npm install react-bootstrap bootstrap
-* 
 * cd appName 
 *
 * Inside index.js write => import 'bootstrap/dist/css/bootstrap.min.css';
