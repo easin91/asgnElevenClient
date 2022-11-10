@@ -5,6 +5,7 @@ ___
 * npx create-react-app appName
 * npm install react-router-dom
 * npm install react-bootstrap bootstrap
+* For Tailwind => npm install -D tailwindcss postcss autoprefixer
 * cd appName 
 * Inside index.js write => import 'bootstrap/dist/css/bootstrap.min.css';
 * npm start
