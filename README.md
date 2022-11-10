@@ -12,7 +12,7 @@ ___
 * For Tailwind => npm install -D tailwindcss postcss autoprefixer
 * npx tailwindcss init -p
 * Inside tailwind.config.js => some code 
-* Inside index.css => 
+* Inside index.css => some code
 * @tailwind base;
 * @tailwind components;
 * @tailwind utilities;
