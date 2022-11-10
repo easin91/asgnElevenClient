@@ -2,7 +2,6 @@
 ___
 # ** Step by step code in CMD **
 ___
-
 * npx create-react-app appName
 * npm install react-router-dom
 * npm install react-bootstrap bootstrap
